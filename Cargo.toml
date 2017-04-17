@@ -1,0 +1,6 @@
+[package]
+name = "rust_hw"
+version = "0.1.0"
+authors = ["whelanc5 <cdwhelan@gmail.com>"]
+
+[dependencies]
